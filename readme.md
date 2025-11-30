@@ -17,6 +17,7 @@
 14. Pegar MAC Address e patrimônio do equipamento
 15. Instalar atualizações
 16. Conferir se está tudo funcionando
+17. Instalar esp32 no Arduino IDE - versão 1.0.6 (nos instalados remover o novo e instalar o antigo)
 
 ##Windows 10/11
 1. Instalar chrome
