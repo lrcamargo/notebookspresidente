@@ -19,6 +19,7 @@
 16. Conferir se está tudo funcionando
 17. Instalar esp32 no Arduino IDE - versão 1.0.6 (nos instalados remover o novo e instalar o antigo)
 18. Corrigir nome do pc
+19. Instalar 7zip
 
 ##Windows 10/11
 1. Instalar chrome
@@ -33,5 +34,8 @@
 10. Pegar MAC Address e patrimônio do equipamento
 11. Instalar atualizações
 12. Conferir se está tudo funcionando
-7 - Instalar e configurar BGInfo
-8 - Colocar BGInfo na inicialização
+13. Instalar e configurar BGInfo
+14. Colocar BGInfo na inicialização
+15. Corrigir nome do pc
+16. Instalar 7zip
+
