@@ -8,7 +8,7 @@
 5. Criar atalho do CADESimu na área de trabalho
 6. Instalar Veyon
 7. Instalar e configurar BGInfo
-8. Colocar BGInfo na inicialização
+8. Colocar BGInfo na inicialização - %appdata%\Microsoft\Windows\Start Menu\Programs\Startup
 9. Instalar .netFramework 4.0
 10. Instalar Python 3.8
 11. Instalar driver CP210x
