@@ -20,6 +20,7 @@
 17. Instalar esp32 no Arduino IDE - versão 1.0.6 (nos instalados remover o novo e instalar o antigo)
 18. Corrigir nome do pc
 19. Instalar 7zip
+20. Criar usuários
 
 ##Windows 10/11
 1. Instalar chrome
@@ -37,5 +38,6 @@
 13. Instalar e configurar BGInfo
 14. Colocar BGInfo na inicialização
 15. Corrigir nome do pc
-16. Instalar 7zip
+16. Criar usuários
+17. Instalar 7zip
 
